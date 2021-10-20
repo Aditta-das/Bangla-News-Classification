@@ -9,14 +9,10 @@ Google Drive Link
 
 Install Node.js
 To deploy this project run
-
+replace model name in techno/views.py
 ```bash
   npm start
 ```
-
-replace model name in techno/views.py
-```
-
 
 Classification of Bangla News using NLP using Pytorch
 
