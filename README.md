@@ -8,7 +8,7 @@
 
 ```
 Google Drive Link
-- [@Google Drive Link](https://drive.google.com/file/d/1i0bUQ2OhNuz58nwNy501BFfZ4jc8tquX/view?usp=sharing)
+- [@Google Drive Link](https://drive.google.com/drive/folders/1y-u7Vq8V1A6_rvdlmG9sAh-oQQMmiirk?usp=sharing)
 
 Install Node.js
 To deploy this project run
