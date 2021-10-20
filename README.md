@@ -8,7 +8,11 @@ Google Drive Link
 - [@Google Drive Link](https://drive.google.com/drive/folders/1UJYRu52qt2mRqe3N2Cdz_f2EK9II6xCW?usp=sharing)
 
 Install Node.js
-command : npm start
+To deploy this project run
+
+```bash
+  npm start
+```
 
 replace model name in techno/views.py
 ```
