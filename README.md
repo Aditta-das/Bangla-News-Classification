@@ -3,7 +3,7 @@
 
 ## React App and Backend Django Rest Framework
 
-![webapp](https://user-images.githubusercontent.com/60479691/138104733-5792b8a3-a79d-4aca-ab02-cc7b9d673e2d.JPG)
+![we](https://user-images.githubusercontent.com/60479691/138112607-72505e16-5f5e-4633-8bb9-985a2f80f97a.JPG)
 
 
 ```
