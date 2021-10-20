@@ -2,7 +2,8 @@ import pandas as pd
 from sklearn import model_selection
 import config
 from sklearn import preprocessing
-
+import warnings
+warnings.filterwarnings("ignore")
 
 
 def clean_data(name):
@@ -42,4 +43,4 @@ if __name__ == "__main__":
             f'{config.path}/{config.csv_name}.csv', 
             index=False
     )
-    print("---> Fold Created")
+    print("---> Fold Created and save")
