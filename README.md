@@ -1,6 +1,17 @@
 
 # Technometrics Assesment 
 
+## React App and Backend Django Rest Framework
+
+```
+Google Drive Link
+- [@Google Drive Link](https://drive.google.com/drive/folders/1UJYRu52qt2mRqe3N2Cdz_f2EK9II6xCW?usp=sharing)
+
+Install Node.js
+command : npm start
+```
+
+
 Classification of Bangla News using NLP using Pytorch
 
 ```
