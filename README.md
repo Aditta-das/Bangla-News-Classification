@@ -9,6 +9,8 @@ Google Drive Link
 
 Install Node.js
 command : npm start
+
+replace model name in techno/views.py
 ```
 
 
