@@ -117,7 +117,7 @@ def run(df, fold):
     model = model.to(config.device)
 
     # optimizer
-    optimizer = torch.optim.AdamW(model.parameters(), lr=config.learning_rate)
+    optimizer = torch.optim.SGD(model.parameters(), lr=learning_rate)
     # scheduler 
     scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode="max", patience=config.PATIENCE)
 
