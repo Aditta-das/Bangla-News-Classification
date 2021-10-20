@@ -38,6 +38,7 @@ def train(data_loader, model, optimizer, device=config.device):
             target
         )
         loss.backward()
+        torch.nn.utils.clip_grad_norm_(model.parameters(), 1)
         optimizer.step()
         losses.append(loss.item())
         probs = torch.softmax(predictions, dim=1)
